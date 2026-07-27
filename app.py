@@ -7,9 +7,7 @@ import pickle
 import time
 import plotly.graph_objects as go
 
-# ----------------------------------------------------------------------------
-# PAGE CONFIG
-# ----------------------------------------------------------------------------
+
 st.set_page_config(
     page_title="Customer Churn Predictor",
     page_icon="🔮",
