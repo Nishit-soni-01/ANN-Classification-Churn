@@ -155,7 +155,7 @@ hr {
 """, unsafe_allow_html=True)
 
 
-# LOAD MODEL & PREPROCESSORS (cached so it only loads once per session)
+
 # ----------------------------------------------------------------------------
 @st.cache_resource
 def load_artifacts():
